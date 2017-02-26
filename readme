@@ -1,0 +1,11 @@
+This project contaiins implementation of the following operations:
+
+1 : Quantization with Median Cut
+2 : Quantization with Uniform Distribution
+3 : Quantization with Median Cut with Floyd-Steinberg Dithering
+4 : Quantization with Uniform Distribution with Floyd-Steinberg Dithering
+5 : Image Enhancement
+6 : Kmeans Segmentation
+7 : Otsu Segmentation
+8 : Edge Detection using DoG
+9 : Pattern Mapping(mapping segmented regions with different patterns)
